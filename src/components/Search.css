@@ -1,0 +1,27 @@
+.buttonstyle
+{
+    background-color: #4CAF50;
+    text-align: center;
+    margin : 10px;
+}
+.inputstyle
+{
+    text-align: center;
+    margin : 10px;
+}
+.navstyle
+{
+    background-color: #191a1b;
+}
+.navtext
+{
+    color: #4CAF50;
+text-align: center;
+margin : 10px;
+text-size-adjust: 50%;
+}
+.ulstyle{
+    display: inline-block;
+       margin-left: auto;
+       margin-right: auto;
+}
